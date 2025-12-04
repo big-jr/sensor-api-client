@@ -1,6 +1,6 @@
 [project]
 name = "sensor-api-client"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python client for the sensor-api-server for AMG8833 IR sensor"
 authors = [
     {name = "big-jr",email = "githubcomms@softwarepragmatism.com"}
